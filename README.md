@@ -79,14 +79,7 @@ We utilize a rich dataset encompassing student demographics, academic performanc
 The project follows a standard machine learning workflow from data ingestion to insight delivery.
 
 ## Kaggle Notebooke
-🔗 [](https://www.kaggle.com/code/youssefbassiouny/student-performance-behavior-dataset-notebook)
-
-## Colab Notebooke
-🔗 [](https://colab.research.google.com/#fileId=https%3A//storage.googleapis.com/kaggle-colab-exported-notebooks/youssefbassiouny/student-performance-behavior-dataset-notebook.3cdac5ca-9582-44b8-9ee3-7c95f2d4a8a9.ipynb%3FX-Goog-Algorithm%3DGOOG4-RSA-SHA256%26X-Goog-Credential%3Dgcp-kaggle-com%2540kaggle-161607.iam.gserviceaccount.com/20250611/auto/storage/goog4_request%26X-Goog-Date%3D20250611T004914Z%26X-Goog-Expires%3D259200%26X-Goog-SignedHeaders%3Dhost%26X-Goog-Signature%3D71633420e4b555eaf365bca79f2421977cd80a13f73051c66a8b22a6bd76ccc8d22f06b22ad9b778f15af6561175988a04a7c670586d7308410a90c8f10b9bb25eefc922a9efcbf23f2ca84ab9c562b3b391c54fa91f54f9ae3c8583f93b751513a5cefe7ca29ed5ced3cc884f72f23cd4181e0888fe4eef4bb495d8792fb4a0bd076522fa00a22e885fefd9687b34c3ed4735942a479cf2b66ee236c17c6dc378a77889a115e13233f334eeb4551868d71fd12129931aba33e1ad73c66f8c9c7e13572884c96055bd41e0b4d734a53a3f2f0c53fa0939f129efc353beebdd861a68b069a7bf941480779b45e6337141bbecd8f4d3f89e05effc099e5601fae0)
-
-
-## Kaggle Notebooke
-🔗 [](https://www.kaggle.com/code/youssefbassiouny/student-performance-behavior-dataset-notebook)
+🔗 (https://www.kaggle.com/code/youssefbassiouny/student-performance-behavior-dataset-notebook)
 
 ## Colab Notebooke
 🔗 [https://colab.research.google.com/drive/1c82T2_E9ykZA_WizFZfDHUKi3NQMTuf7?usp=sharing ]
