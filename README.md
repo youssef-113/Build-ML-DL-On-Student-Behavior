@@ -86,7 +86,7 @@ The project follows a standard machine learning workflow from data ingestion to 
 
 
 ## Kaggle Notebooke
-🔗 []
+🔗 [](https://www.kaggle.com/code/youssefbassiouny/student-performance-behavior-dataset-notebook)
 
 ## Colab Notebooke
 🔗 [https://colab.research.google.com/drive/1c82T2_E9ykZA_WizFZfDHUKi3NQMTuf7?usp=sharing ]
